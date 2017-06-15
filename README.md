@@ -33,5 +33,5 @@ Functional server architecture installer to your container environment with the 
   * On your terminal :
     * ` docker inspect happy_perlman | grep -i ip`
     here you can check your rancher adress
-    !(screen/1.png)
+    ![](screen/1.png)
     copy your adress and add the `8080` port
