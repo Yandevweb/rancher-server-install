@@ -31,7 +31,10 @@ Functional server architecture installer to your container environment with the 
 * PhpMyAdmin: `localhost:8080`
 * Access to Rancher (a particular workaround)
   * On your terminal :
-    * ` docker inspect happy_perlman | grep -i ip`
-    here you can check your rancher adress
+    * check your `rancher/server` image name
+      `docker ps`
+      ![](screen/5.png)
+    * here you can check your rancher adress
+     ` docker inspect happy_perlman | grep -i ip`
     ![](screen/1.png)
     copy your adress and add the `8080` port
