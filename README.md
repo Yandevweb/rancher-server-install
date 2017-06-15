@@ -42,3 +42,12 @@ Functional server architecture installer to your container environment with the 
      ` docker inspect happy_perlman | grep -i ip`
     ![](screen/1.png)
     copy your adress and add the `8080` port
+
+
+## Add host
+
+* Copy the following line into your teminal to fetch all your containers
+![](screen/7.png)
+
+
+* Enjoy !
