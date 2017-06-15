@@ -7,6 +7,10 @@ Functional server architecture installer to your container environment with the 
 * PhpMyAdmin
 * RancherOS
 
+![](screen/2.png)
+![](screen/3.png)
+![](screen/6.png)
+
 ## Installation manual
 
 * On your terminal :
